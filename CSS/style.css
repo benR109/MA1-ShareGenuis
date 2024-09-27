@@ -1,5 +1,6 @@
 body {
     background-color: skyblue;
+    
 }
 .nav {
     list-style-type: none;
@@ -27,4 +28,35 @@ ul.nav a:hover {
 }
 text1{
     font-size: x-large;
+}
+.image1{
+    background-image: url("../Images/ContactBackground.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.indexbi{
+    background-image: url("../Images/skihomepage.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.resourcesbi{
+    background-image: url("../Images/skiRack.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font1{
+    font-family: "disalina", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+h1{
+font-family: "karol-sans",serif;
+font-weight: 700;
+font-style: normal;
 }
