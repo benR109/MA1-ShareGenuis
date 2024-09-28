@@ -49,11 +49,18 @@ text1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+
 }
 .font1{
     font-family: "disalina", sans-serif;
     font-weight: 700;
     font-style: normal;
+}
+.font2{
+font-family: "homage-script", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 h1{
 font-family: "karol-sans",serif;
